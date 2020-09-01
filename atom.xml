@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-01T08:32:47.574Z</updated>
+  <updated>2020-09-01T08:53:50.798Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/08/31/myfirstblog/"/>
     <id>http://yoursite.com/2020/08/31/myfirstblog/</id>
     <published>2020-08-31T08:19:55.000Z</published>
-    <updated>2020-09-01T08:32:47.574Z</updated>
+    <updated>2020-09-01T08:53:50.798Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre><code>这是我第一次用Hexo来搭建一个博客，主题用的是ayer，是我在B站 CodeSheep这位优秀up主的学习下，才成功的，期间也踩了很多坑，</code></pre><p>不过作为一个小菜鸟，这些都是正常的，如果朋友们也想搭建自己的博客，可以去B站学习，有问题的话可以加我的qq：1393756821，欢迎一起来学和探讨！！</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是我第一次用Hexo来搭建一个博客，主题用的是ayer，是我在B站 CodeSheep这位优秀up主的学习下，才成功的，期间也踩了很多坑，不过作为一个小菜鸟，这些都是正常的，如果朋友们也想搭建自己的博客，可以去B站学习，有问题的话可以加我的qq：1393756821，欢迎一起来学和探讨！！</p>]]></content>
     
     
       
